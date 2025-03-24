@@ -1,0 +1,9 @@
+job.find('h2', class_='node__title')
+
+job.find('span', class_='recruiter-company-profile-job-organization')
+
+job.find('span', class_='date')
+
+job_listings = soup.find_all('div', class_='views-row')
+
+job.find('div', class_='location')
