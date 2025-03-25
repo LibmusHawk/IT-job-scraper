@@ -12,7 +12,7 @@ A Python script that scrapes IT job listings from Jobly.fi and exports them to a
 1. **Clone the repository**:
    ```bash
    git clone https://github.com/LibmusHawk/IT-job-scraper.git
-   cd jobly-scraper
+   cd IT-job-scraper
     ```
 2. **Install dependencies**:
    ```bash
